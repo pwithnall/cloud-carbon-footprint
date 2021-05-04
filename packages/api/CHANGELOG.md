@@ -1,5 +1,17 @@
 # @cloud-carbon-footprint/api
 
+## 0.2.5
+
+### Patch Changes
+
+- b63d8a67: updates dependencies for node types and aws-sdk
+- Updated dependencies [68365cbf]
+- Updated dependencies [b63d8a67]
+- Updated dependencies [3abe3dca]
+- Updated dependencies [370c509d]
+- Updated dependencies [7d523b59]
+  - @cloud-carbon-footprint/core@0.7.0
+
 ## 0.2.4
 
 ### Patch Changes

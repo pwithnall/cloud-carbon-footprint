@@ -1,5 +1,18 @@
 # @cloud-carbon-footprint/client
 
+## 0.7.0
+
+### Minor Changes
+
+- 6917116b: Updates the formula in the sidebar with new sources for emissions factor
+- c89184bb: Indicates Cloud Provider on the Emissions Breakdown Bar Chart
+
+### Patch Changes
+
+- b63d8a67: updates dependencies for node types and aws-sdk
+- 8b81e904: removes end date env variable
+- 3e759462: Fixes spacing and alignment issues for right-sided axes for the Cloud Usage graph
+
 ## 0.6.0
 
 ### Minor Changes
